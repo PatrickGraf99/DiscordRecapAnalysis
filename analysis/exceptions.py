@@ -1,0 +1,2 @@
+class NoSuchIDError(Exception):
+    pass
